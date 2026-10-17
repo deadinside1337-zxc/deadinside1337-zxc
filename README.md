@@ -7,6 +7,9 @@
 ![banner](assets/panel2.png)
 ![banner](assets/panel3.png)
 ![banner](assets/panel4.png)
+![banner](assets/panel5.png)
+![banner](assets/panel6.png)
+![banner](assets/panel7.png)
 <!--
 **deadinside1337-zxc/deadinside1337-zxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
